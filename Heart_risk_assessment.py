@@ -146,5 +146,7 @@ def main():
     print("Calculating your risk score...")
     time.sleep(2)
     print("Your estimated risk is " + str(round(risk_percentage)) + "%")
+    time.sleep(2)
+
 
 main()
