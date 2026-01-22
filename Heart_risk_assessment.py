@@ -1,6 +1,5 @@
 # Calculating the risk of heart attack based on user input
 import time
-import random
 
 
 
@@ -150,3 +149,4 @@ def main():
 
 
 main()
+
